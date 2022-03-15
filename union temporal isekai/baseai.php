@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<script src="style.scss"></script>
+<script src=style.scss></script>
 </head>
 <body>
 <div id="app">
