@@ -10,22 +10,22 @@
     <div class="carousel-item active">
       <img src="https://cdn.discordapp.com/attachments/827534398064295948/950564695197237300/unknown.png" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
-        <h5>First slide label</h5>
-        <p>Some representative placeholder content for the first slide.</p>
+        <h5>BaseAI</h5>
+        <a class="btn btn-light" href="baseai.php" role="button">Link</a>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="https://cdn.discordapp.com/attachments/715927167531483146/953120184393162862/68501052-pixels-de-8-bits-arriC3A8re-plan-illustration-vectorielle.png" class="d-block w-100" alt="...">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>BaseAI</h5>
+        <a class="btn btn-light" href="#" role="button">Link</a>
       </div>
     </div>
     <div class="carousel-item">
       <img src="..." class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
-        <h5>First slide label</h5>
-        <p>Some representative placeholder content for the first slide.</p>
-      </div>
-    </div>
-    <div class="carousel-item">
-      <img src="..." class="d-block w-100" alt="...">
-      <div class="carousel-caption d-none d-md-block">
-        <h5>First slide label</h5>
-        <p>Some representative placeholder content for the first slide.</p>
+        <h5>BaseAI</h5>
+        <a class="btn btn-light" href="#" role="button">Link</a>
       </div>
     </div>
   </div>
