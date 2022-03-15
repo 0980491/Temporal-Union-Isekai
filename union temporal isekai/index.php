@@ -22,7 +22,7 @@
       </div>
     </div>
     <div class="carousel-item">
-      <img src="..." class="d-block w-100" alt="...">
+      <img src="https://cdn.discordapp.com/attachments/715927432695250985/953121376724725770/cristiano-ronaldo-empalmado-yate.png" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <h5>BaseAI</h5>
         <a class="btn btn-light" href="#" role="button">Link</a>
