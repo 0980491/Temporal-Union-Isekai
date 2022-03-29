@@ -25,7 +25,7 @@
       <img src="https://cdn.discordapp.com/attachments/715927432695250985/953121376724725770/cristiano-ronaldo-empalmado-yate.png" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <h5>OMENS</h5>
-        <a class="btn btn-light" href="#" role="button">Link</a>
+        <a class="btn btn-light" href="https://juanjosemartinezgn.wixsite.com/my-site-7" role="button">Link</a>
       </div>
     </div>
   </div>
