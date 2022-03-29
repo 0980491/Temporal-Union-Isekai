@@ -11,7 +11,7 @@
       <img src="https://cdn.discordapp.com/attachments/827534398064295948/950564695197237300/unknown.png" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <h5>BaseAI</h5>
-        <a class="btn btn-light" href="public/index.html" role="button">Link</a>
+        <a class="btn btn-light" href="home.php" role="button">Link</a>
       </div>
     </div>
     <div class="carousel-item">
