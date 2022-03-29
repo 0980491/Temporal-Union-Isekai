@@ -107,7 +107,7 @@
       <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
         <h5 class="u-text u-text-default u-text-1">Somos el futuro</h5>
         <h3 class="u-text u-text-2">Somos un grupo de ingenieros que busca apartir de las inteligencias artificiales, facilitar siertas actividades tediosas, o simplemente agilisarlas, para que puedas enfocarte mas en tu vida y la creatividad de tu trabajo</h3>
-        <a href="rename.php" class="u-active-black u-border-none u-btn u-btn-round u-button-style u-hover-black u-palette-2-base u-radius-9 u-btn-1">Mas</a>
+        <a href="components/my-404-page/my-404-page/src/something.php" class="u-active-black u-border-none u-btn u-btn-round u-button-style u-hover-black u-palette-2-base u-radius-9 u-btn-1">Mas</a>
       </div>
     </section>
     <section class="u-clearfix u-section-4" id="carousel_ba9b">
@@ -221,7 +221,7 @@
             <h2 class="u-text u-text-1"> Solicita la creacion de una AI</h2>
             <p class="u-text u-text-2">Images from <a href="https://www.freepik.com/photos/business" class="u-active-none u-border-1 u-border-active-palette-3-light-2 u-border-hover-palette-3-light-2 u-border-white u-btn u-button-link u-button-style u-hover-none u-none u-text-body-alt-color u-btn-1" target="_blank">Freepik</a>
             </p>
-            <a href="rename.php" class="u-active-black u-border-none u-btn u-btn-round u-button-style u-hover-black u-radius-9 u-white u-btn-2">Click aqui</a>
+            <a href="components/my-404-page/my-404-page/src/something.php" class="u-active-black u-border-none u-btn u-btn-round u-button-style u-hover-black u-radius-9 u-white u-btn-2">Click aqui</a>
           </div>
         </div>
       </div>
@@ -338,7 +338,7 @@
         <p class="u-small-text u-text u-text-variant u-text-1">Sample text. Click to select the text box. Click again or double click to start editing the text.</p>
       </div></footer>
     <section class="u-backlink u-clearfix u-grey-80">
-      <a class="u-link" href="rename.php" target="_blank">
+      <a class="u-link" href="components/my-404-page/my-404-page/src/something.php" target="_blank">
         <span>Website Templates</span>
       </a>
       <p class="u-text">
