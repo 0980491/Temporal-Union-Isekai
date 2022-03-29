@@ -46,8 +46,8 @@
           </div>
           <div class="u-nav-container">
             <ul class="u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="Home.html" style="padding: 10px 20px;">Home</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="About.html" style="padding: 10px 20px;">About</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="Contact.html" style="padding: 10px 20px;">Contact</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="About.php" style="padding: 10px 20px;">About</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="Contact.php" style="padding: 10px 20px;">Contact</a>
 </li></ul>
           </div>
           <div class="u-nav-container-collapse">
@@ -137,7 +137,7 @@
                           <h4 class="u-text u-text-default u-text-2">Nuestro equipo crea y distribuye herramientas eficientes.</h4>
                           <p class="u-text u-text-3">Images from <a href="https://www.freepik.com/photos/background" class="u-border-1 u-border-active-palette-2-base u-border-black u-border-hover-palette-2-base u-btn u-button-link u-button-style u-none u-text-body-color u-btn-1" target="_blank">Freepik</a>
                           </p>
-                          <a href="https://nicepage.com/k/apple-website-templates" class="u-active-black u-border-none u-btn u-btn-round u-button-style u-hover-black u-palette-2-base u-radius-9 u-btn-2">Mas</a>
+                          <a href="" class="u-active-black u-border-none u-btn u-btn-round u-button-style u-hover-black u-palette-2-base u-radius-9 u-btn-2">Mas</a>
                         </div>
                       </div>
                     </div>
@@ -338,7 +338,7 @@
         <p class="u-small-text u-text u-text-variant u-text-1">Sample text. Click to select the text box. Click again or double click to start editing the text.</p>
       </div></footer>
     <section class="u-backlink u-clearfix u-grey-80">
-      <a class="u-link" href="https://nicepage.com/website-templates" target="_blank">
+      <a class="u-link" href="" target="_blank">
         <span>Website Templates</span>
       </a>
       <p class="u-text">
