@@ -18,11 +18,11 @@
       <img src="https://cdn.discordapp.com/attachments/715927167531483146/953121786864758815/fondo-caos-puntos-pixeles-colores_1017-30635.png" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <h5>Kamazon Elite</h5>
-        <a class="btn btn-light" href="#" role="button">Link</a>
+        <a class="btn btn-light" href="docs/Casa.php" role="button">Link</a>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="https://cdn.discordapp.com/attachments/715927432695250985/953121376724725770/cristiano-ronaldo-empalmado-yate.png" class="d-block w-100" alt="...">
+      <img src="https://cdn.discordapp.com/attachments/827534894581678090/837381877399945267/unknown.png" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <h5>OMENS</h5>
         <a class="btn btn-light" href="https://juanjosemartinezgn.wixsite.com/my-site-7" role="button">Link</a>
